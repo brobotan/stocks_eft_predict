@@ -3,7 +3,7 @@
 #### MACHINE LEARNING
 
 
-AAYUSH NEELKANTH  aayush27_soe@jnu.ac.in
+AAYUSH NEELKANTH  aayush27_soe@jnu.ac.in <br>
 BHAVISHYA RAJ  bhavis58_soe@jnu.ac.in <br>
 JATIN VERMA  jatin71_soe@jnu.ac.in <br>
 PEEHOO JAIN  peehoo78_soe@jnu.ac.in <br>
