@@ -20,9 +20,9 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Table of contents](#table-of-contents)
 - [Description](#description)
 - [Usage](#usage)
-- [License](#license)
 - [Installations](#installations)
 - [Database](#database)
+- [License](#license)
 
 # Description
 [(Back to top)](#table-of-contents)
@@ -51,17 +51,6 @@ XGBoost starts by creating a first simple tree which has poor performance by its
 
 To use any of the two models mentioned above you just need to downlaod the corresponding jupyter notebook file which has an extension of .ipynb and import the packages required.
 
-# License
-[(Back to top)](#table-of-contents)
-
-<!-- Adding the license to README is a good practice so that people can easily refer to it.
-
-Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub > Set file name to LICENSE > GitHub shows LICENSE templates > Choose the one that best suits your project!
-
-I personally add the name of the license and provide a link to it like below. -->
-
-[The MIT License](https://opensource.org/licenses/MIT)
-
 # Installations
 [(Back to top)](#table-of-contents)
 <!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.-->
@@ -80,4 +69,16 @@ I personally add the name of the license and provide a link to it like below. --
 <!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.-->
 We used [Database](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) which contains data for 7165 Stocks and 1374 ETFs.
 Data is presented in txt format that we will convert it into a csv file. It includes attributes such as Date, Open, High, Low, Close, Volume, OpenInt. A lot of Ups and Downs in the value of Stocks and ETFs are present in the Dataset therefore we have a very wide variety of Database which we will perform to train and test our Model.
+
+# License
+[(Back to top)](#table-of-contents)
+
+<!-- Adding the license to README is a good practice so that people can easily refer to it.
+
+Make sure you have added a LICENSE file in your project folder. **Shortcut:** Click add new file in your root of your repo in GitHub > Set file name to LICENSE > GitHub shows LICENSE templates > Choose the one that best suits your project!
+
+I personally add the name of the license and provide a link to it like below. -->
+
+[The MIT License](https://opensource.org/licenses/MIT)
+
 
