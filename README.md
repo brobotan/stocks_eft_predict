@@ -1,12 +1,13 @@
 ![test](https://sevensreport.com/wp-content/uploads/2016/07/stock-market-3.jpg)
 # Stock Market Trends and Price Prediction
-## DEMO-PREVIEW
-## ARIMA MODEL PREDICTIONS
+--
+## Demo Preview
+### ARIMA Model Predictions
 AMAZON.COM INC Stock Prediction  |  ProShares UltraPro Short QQQ Prediction
 :-------------------------:|:-------------------------:
 ![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/results/final(Amazon.com%20Inc).png)  |  ![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/results/final(ProShares%20UltraPro%20Short%20QQQ).png)
 
-## XGBOOST PREDICTIONS
+### XGBOOST Predictions
 Prediction 1  |  Prediction 2
 :-------------------------:|:-------------------------:
 ![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/XGBOOST-Results/xg_test_predict_z.png)  |  ![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/XGBOOST-Results/xg_dev_predict.png).png)
