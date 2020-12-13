@@ -17,8 +17,6 @@ Prediction 1  |  Prediction 2
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Stock Market Trends and Price Prediction](#project-title)
-- [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Description](#description)
 - [Usage](#usage)
