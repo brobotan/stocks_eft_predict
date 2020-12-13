@@ -21,7 +21,8 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Description](#description)
 - [Usage](#usage)
 - [License](#license)
-- [Footer](#footer)
+- [Installations](#installations)
+- [Database](#database)
 
 # Description
 [(Back to top)](#table-of-contents)
@@ -61,13 +62,22 @@ I personally add the name of the license and provide a link to it like below. --
 
 [The MIT License](https://opensource.org/licenses/MIT)
 
-# Footer
+# Installations
 [(Back to top)](#table-of-contents)
-<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
+<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.-->
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
+- pandas
+- sklearn
+- pmdarima
+- tqdm
+- xgboost
 
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-
+# Database
+[(Back to top)](#table-of-contents)
+<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.-->
+We used [Database](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs) which contains data for 7165 Stocks and 1374 ETFs.
+Data is presented in txt format that we will convert it into a csv file. It includes attributes such as Date, Open, High, Low, Close, Volume, OpenInt. A lot of Ups and Downs in the value of Stocks and ETFs are present in the Dataset therefore we have a very wide variety of Database which we will perform to train and test our Model.
 
