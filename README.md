@@ -10,7 +10,7 @@ AMAZON.COM INC Stock Prediction  |  ProShares UltraPro Short QQQ Prediction
 ### XGBOOST Predictions
 Prediction 1  |  Prediction 2
 :-------------------------:|:-------------------------:
-![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/XGBOOST-Results/xg_test_predict_z.png)  |  ![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/XGBOOST-Results/xg_dev_predict.png).png)
+![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/XGBOOST-Results/xg_test_predict_z.png)  |  ![](https://github.com/brobotan/stocks_eft_predict/blob/main/Output/XGBOOST-Results/xg_dev_predict.png)
 
 # Table of contents
 
