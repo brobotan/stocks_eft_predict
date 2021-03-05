@@ -1,7 +1,6 @@
 ![test](https://sevensreport.com/wp-content/uploads/2016/07/stock-market-3.jpg)
 # Stock Market Trends and Price Prediction
 
-## Demo Preview
 ### ARIMA Model Predictions
 AMAZON.COM INC Stock Prediction  |  ProShares UltraPro Short QQQ Prediction
 :-------------------------:|:-------------------------:
